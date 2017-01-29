@@ -80,7 +80,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
-    
+    //this is the right way to do it, not what is above
     @IBAction func handleNumButtonPress(_ sender: UIButton) {
         
     }
